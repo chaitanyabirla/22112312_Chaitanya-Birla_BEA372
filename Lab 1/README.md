@@ -29,13 +29,17 @@ The objective of the lab was to create a menu-driven program with the help of fu
 
 ### Output
 * Output for `view`
+
 ![Alt text](image-1.png)
 
 * Output for `header`
+
 ![Alt text](image-2.png)
 
 * Output for `martital`
+
 ![Alt text](image-3.png)
 
 * Output for `histogram`
+
 ![Alt text](image-4.png)
